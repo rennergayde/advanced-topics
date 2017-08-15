@@ -1,10 +1,11 @@
 ## OOP Practice
 
-These are some ideas to practice Object Oriented Programming.
+#These are some ideas to practice Object Oriented Programming.
 
 Exercises:
 
   1. Bank Account - Jalapeno
+
   Make a class BankAccount where instances of accounts can be created. Give these objects variables such as account number, account owner,
   and account balance. Create methods to deposit, withdraw, and check balance.
 
