@@ -1,6 +1,6 @@
 ## OOP Practice
 
-# These are some ideas to practice Object Oriented Programming.
+### These are some ideas to practice Object Oriented Programming.
 
 Exercises:
 
