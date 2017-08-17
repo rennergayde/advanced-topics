@@ -3,6 +3,7 @@
 ---
 
 Semester 1: Full-Stack Development with Python
+
 Semester 2: Introduction to Computer Organization
 
 ### 1. Introduction
@@ -47,5 +48,6 @@ C is the godfather of many modern computer languages, we'll learn how to code pr
 
 You all can do whatever you want, as long as it is:
 
-A) Productive,
+A) Productive.
+
 B) Doesn't end in jail-time, me getting fired, or you getting suspended.
