@@ -10,6 +10,7 @@ Exercises:
   and account balance. Create methods to deposit, withdraw, and check balance.
 
   2. Parking Garage - Cayenne
+  
   Create two classes Car and Garage.
 
   For the Car class initialize the objects with owner name, and a registration number. Other variables can include make, model, etc.
