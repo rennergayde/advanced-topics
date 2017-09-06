@@ -50,4 +50,4 @@ You all can do whatever you want, as long as it is:
 
 A) Productive.
 
-B) Doesn't end in jail-time, me getting fired, or you getting suspended.
+B) Legal, according to the United States, the state of Pennsylvania, and GFS as an institution.
